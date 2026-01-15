@@ -4,6 +4,7 @@ This folder contains Java programs that demonstrate object-oriented programming 
 
 ## Topics Covered
 - [x] Classes and Objects
+- [x] Methods (declaration and calling)
 - [x] Encapsulation
 - [x] Inheritance
 - [x] Polymorphism
