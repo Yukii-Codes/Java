@@ -1,10 +1,10 @@
 ## Topics Covered
-- Java Basics ☑️
-- Control Statements ☑️
-- Arrays ☑️
-- Strings ☑️
-- Object-Oriented Programming (OOP) ☑️
-- Exception Handling ☑️
-- Input/Output Operations ☑️
-- Java Collections
-- Simple GUI Programming
+- [x] Java Basics 
+- [x] Control Statements 
+- [x] Arrays 
+- [x] Strings 
+- [x] Object-Oriented Programming (OOP) 
+- [x] Exception Handling 
+- [x] Input/Output Operations 
+- [ ] Java Collections
+- [ ] Simple GUI Programming
