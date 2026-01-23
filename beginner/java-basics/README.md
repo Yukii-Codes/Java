@@ -8,7 +8,6 @@ This folder covers fundamental Java syntax and core programming concepts.
 - [x] Data Types
 - [x] Type Casting
 - [x] Operators
-- [x] Input and Output
 
 ## Goal
 To gain a strong understanding of Java syntax and core language concepts.
