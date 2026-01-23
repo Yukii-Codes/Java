@@ -1,3 +1,4 @@
+//To demonstrate basic operators
 public class SimpleCalculation {
     public static void main(String[]args){
         int number1 = 25;
